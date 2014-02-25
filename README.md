@@ -1,4 +1,4 @@
 dotfiles
 =======
 
-My dotfiles saved for historical sake
+My dotfiles saved for posterity
